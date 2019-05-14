@@ -44,5 +44,5 @@ jsconfig.json
 buck-out/
 bin/
 \.buckd/
-android/app/libs
+# android/app/libs
 android/keystores/debug.keystore
