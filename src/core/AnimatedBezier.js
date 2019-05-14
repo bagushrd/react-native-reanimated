@@ -1,4 +1,4 @@
-import { val } from '../val';
+import { val } from '../utils';
 import AnimatedNode from './AnimatedNode';
 
 // These values are established by empiricism with tests (tradeoff: performance VS precision)
